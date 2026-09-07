@@ -1,1 +1,1 @@
-<video src="https://github.com/Geich1/OpenGL-Solar-System-Project/raw/refs/heads/main/Project%20Demo.webm" controls></video>
+[Project Demo.webm](https://github.com/user-attachments/assets/b5078f9c-64c9-4377-8979-7ac267657b9b)
